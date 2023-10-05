@@ -2,7 +2,7 @@ import React, { FC } from "react";
 
 const Footer: FC = () => {
   return (
-    <div className="navbar navbar-sm navbar-footer border-top">
+    <div className="navbar navbar-sm border-top">
       <div className="container-fluid">
         <span>
           © 2022{" "}
