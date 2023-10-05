@@ -24,30 +24,6 @@ const Footer: FC = () => {
               </div>
             </a>
           </li>
-          <li className="nav-item ms-md-1">
-            <a
-              href="https://demo.interface.club/limitless/demo/Documentation/index.html"
-              className="navbar-nav-link navbar-nav-link-icon rounded"
-              target="_blank"
-            >
-              <div className="d-flex align-items-center mx-md-1">
-                <i className="ph-file-text"></i>
-                <span className="d-none d-md-inline-block ms-2">Docs</span>
-              </div>
-            </a>
-          </li>
-          <li className="nav-item ms-md-1">
-            <a
-              href="https://themeforest.net/item/limitless-responsive-web-application-kit/13080328?ref=kopyov"
-              className="navbar-nav-link navbar-nav-link-icon text-primary bg-primary bg-opacity-10 fw-semibold rounded"
-              target="_blank"
-            >
-              <div className="d-flex align-items-center mx-md-1">
-                <i className="ph-shopping-cart"></i>
-                <span className="d-none d-md-inline-block ms-2">Purchase</span>
-              </div>
-            </a>
-          </li>
         </ul>
       </div>
     </div>
